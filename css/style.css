@@ -66,6 +66,7 @@ a
 {
     background-image: url(../imgs/Merge-FB-cover.jpg);
     background-size: cover;   
+    background-position-x: center;
 }
 
 .content2
